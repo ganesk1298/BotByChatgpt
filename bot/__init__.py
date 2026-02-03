@@ -1,0 +1,1 @@
+"""BotByChatgpt trading bot package."""
